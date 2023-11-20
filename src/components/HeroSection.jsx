@@ -15,7 +15,7 @@ function HeroSection() {
 				</p>
 				<article className="flex flex-col gap-2 items-center">
 					<a
-						href="https://drive.google.com/file/d/1jeAws9V3ND1vd3XyeW8f0KUKNFmPL0KZ/view?usp=sharing"
+						href="https://docs.google.com/document/d/1MoS5w99JpNcKxYwDZE6mlYMjCiep6YlDAcQO8Ag-JTc/edit?usp=sharing"
 						target="_blank"
 						rel="noreferrer"
 						className="inline-flex items-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 border-indigo-600  md:text-md "
